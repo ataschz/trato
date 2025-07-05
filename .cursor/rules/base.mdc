@@ -1,0 +1,20 @@
+---
+alwaysApply: true
+---
+## General
+
+- Avoid contextual code comments
+- Write self-descriptive code to eliminate need for comments
+- Prefer `interface` over `type` when possible
+- Use PNPM as package manager
+
+## React
+
+- Define components with `function` instead of `const` when feasible
+- Structure components atomically/modularly and include a11y properties when applicable
+- When asked to use icons, always use the icons with your wand
+
+### Language Conventions
+
+- **All code must be written in English**: function names, variable names, comments, documentation, etc.
+- **All user-facing UI text must be in Spanish**: buttons, labels, messages, error text, etc.
